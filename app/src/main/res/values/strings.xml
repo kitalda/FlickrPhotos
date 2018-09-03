@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FlickrPhotos</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_private_photos">My photos</string>
+    <string name="title_public_photos">Public photos</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">Image</string>
+    <string name="title_map">Map</string>
+    <string name="about">About</string>
+    <string name="joined">Joined</string>
+    <string name="views">Views</string>
+    <string name="tags" translatable="false">Tags</string>
+    <string name="numberOfGeotags" translatable="false">Geotags</string>
+    <string name="numberOfFaves" translatable="false">numberOfFaves</string>
+    <string name="numberOfGroups">Groups</string>
+    <string name="auth_request">Generating the authorization request...</string>
+    <string name="aq_profile">Aquiring profile data...</string>
+    <string name="login_process">Logging you in...</string>
+</resources>

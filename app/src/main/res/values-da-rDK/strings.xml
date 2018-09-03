@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlickrPhotos</string>
+    <string name="prompt_username">Brugernavn</string>
+    <string name="prompt_password">Kodeord (ikke påkrævet)</string>
+    <string name="action_sign_in">Login eller registrer</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Denne e-mailaddresse er ikke gyldig</string>
+    <string name="error_invalid_password">Dette kodeord er for kort</string>
+    <string name="error_incorrect_password">Forkert kodeord</string>
+    <string name="error_field_required">Dette felt er påkrævet</string>
+    <string name="permission_rationale">Kontaktperstilladelser er nødvendige for autocomplete af e-mails</string>
+    <string name="title_activity_main">Primær</string>
+    <string name="title_private_photos">Mine billeder</string>
+    <string name="title_public_photos">Offentlige billeder</string>
+    <string name="title_profile">Profil</string>
+    <string name="hello_blank_fragment">Hallo tomt fragment</string>
+    <string name="image">Billede</string>
+    <string name="title_map">Kort</string>
+    <string name="about">Om</string>
+    <string name="joined">Bruger oprettet</string>
+    <string name="views">Visninger</string>
+    <string name="numberOfGroups">Grupper</string>
+    <string name="auth_request">Genererer autorisationsanmodning...</string>
+    <string name="aq_profile">Henter profildata...</string>
+    <string name="login_process">Logger dig ind...</string>
+</resources>
